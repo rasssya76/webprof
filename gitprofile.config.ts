@@ -52,12 +52,12 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'R-BOT INFORMASION',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: 'R-BOT',
     twitter: 'arif_szn',
     mastodon: 'arifszn@mastodon.social',
     researchGate: '',
@@ -171,7 +171,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
